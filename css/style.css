@@ -1651,6 +1651,7 @@ font-weight: 500;
 .carousel-indicators li {
     width: 25px;
     height: 25px;
+     padding-bottom: 10px;
     border-radius: 15px;
     background-color: darkred;
    
